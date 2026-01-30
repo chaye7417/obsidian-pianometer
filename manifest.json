@@ -1,0 +1,10 @@
+{
+  "id": "pianometer",
+  "name": "PianoMeter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "88键钢琴键盘显示器，支持 MIDI 输入、和弦识别、踏板显示等功能。基于好和弦 NiceChord 的 PianoMeter。",
+  "author": "chaye7417",
+  "authorUrl": "https://github.com/chaye7417",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "obsidian-pianometer",
+  "version": "1.0.0",
+  "description": "Piano keyboard visualizer for Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": ["obsidian", "piano", "midi", "music"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "0.17.3",
+    "obsidian": "latest",
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "tonal": "^6.4.3"
+  }
+}

@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Build output (keep main.js for distribution)
+# main.js
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional
+data.json
