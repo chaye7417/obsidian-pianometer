@@ -4,7 +4,7 @@
 
 基于 [NiceChord 好和弦](https://nicechord.com/) 的 [PianoMeter](https://github.com/wiwikuan/pianometer) 项目。
 
-![PianoMeter](https://github.com/wiwikuan/pianometer/raw/main/screenshot.png)
+![PianoMeter](screenshot.png)
 
 ---
 
